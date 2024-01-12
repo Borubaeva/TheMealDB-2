@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: brown;
+}        
+header {
+    color: white;
+    padding: 10px;
+}
+button{
+    width: 80px;
+    background-color: darkolivegreen;
+    border-color: transparent;
+    color: white;
+    padding: 10px 15px;
+    margin-top: 10px; 
+    border-radius: 5px;
+    padding: 10px 15px;
+    margin-top: 10px;
+    justify-content: space-between;
+}
+input{
+    width: 400px;
+    padding: 8px; 
+    margin-top: 10px;
+    border-radius: 7px;
+}
+.card{
+    background-color: burlywood;
+    margin-top: 20px;
+}
